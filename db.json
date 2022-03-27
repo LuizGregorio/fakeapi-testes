@@ -59,64 +59,6 @@
         "id": "0",
         "name": "eletronicos"
       }
-    },
-    {
-      "id": "b189c817-6cb3-429a-9d75-ab20a260ff43",
-      "name": "Monitor Gamer Samsung",
-      "description": "Monitor FULL HD 69",
-      "price": 853.96,
-      "seller": {
-        "id": "b189c817-6cb3-429a-9d75-ab20a260ff44",
-        "user": {
-          "name": "Casas Bahia"
-        }
-      },
-      "banned": false,
-      "images": [
-        {
-          "id": "0",
-          "path": "https://res.cloudinary.com/dmodwusmq/image/upload/v1635466938/xcc0z6yxwdzvjxqqvcji.jpg",
-          "productId": "1"
-        },
-        {
-          "id": "1",
-          "path": "https://res.cloudinary.com/dmodwusmq/image/upload/v1635466938/xcc0z6yxwdzvjxqqvcji.jpg",
-          "productId": "2"
-        }
-      ],
-      "category": {
-        "id": "0",
-        "name": "eletronicos"
-      }
-    },
-    {
-      "id": "b189c817-6cb3-429a-9d75-ab20a260ff43",
-      "name": "Monitor Gamer Samsung",
-      "description": "Monitor FULL HD 69",
-      "price": 853.96,
-      "seller": {
-        "id": "b189c817-6cb3-429a-9d75-ab20a260ff44",
-        "user": {
-          "name": "Casas Bahia"
-        }
-      },
-      "banned": false,
-      "images": [
-        {
-          "id": "0",
-          "path": "https://res.cloudinary.com/dmodwusmq/image/upload/v1635466938/xcc0z6yxwdzvjxqqvcji.jpg",
-          "productId": "1"
-        },
-        {
-          "id": "1",
-          "path": "https://res.cloudinary.com/dmodwusmq/image/upload/v1635466938/xcc0z6yxwdzvjxqqvcji.jpg",
-          "productId": "2"
-        }
-      ],
-      "category": {
-        "id": "0",
-        "name": "eletronicos"
-      }
     }
   ],
   "csrfToken": ""
